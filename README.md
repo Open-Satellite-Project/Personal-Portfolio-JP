@@ -22,4 +22,4 @@
 ---
 # Personal Project
 
-1. [Project Demo Video](../../wiki/Project-紹介)
+1. [Project紹介](../../wiki/Project-紹介)
