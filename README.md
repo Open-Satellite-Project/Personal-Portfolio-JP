@@ -23,4 +23,4 @@
 # Personal Project
 
 1. [Project 紹介](../../wiki/Project-紹介)
-2. [Project 紹介](../../wiki/画面設計-USECASE-ERD-Project-構造)
+2. [画面設計 USECASE ERD Project 構造](../../wiki/画面設計-USECASE-ERD-Project-構造)
